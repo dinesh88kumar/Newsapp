@@ -1,4 +1,3 @@
-# 🗞 React Native News App 🗞
 
 
 
